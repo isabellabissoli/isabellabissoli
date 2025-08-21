@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Isabella Bissoli
 
 - 🔭 Trabalho como Desenvolvedora Back-End
-- 🌱 Estudando Laravel
+- 🌱 Estudando Golang
 - 📫 Email: isabellabg244@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellabissoli&theme=transparent)
